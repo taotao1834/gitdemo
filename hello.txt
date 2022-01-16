@@ -1,6 +1,6 @@
 Hello hot-fix!
 Hello master!
-Hello git!
+Hello hot-fix!
 Hello git!
 Hello git!
 Hello git!
