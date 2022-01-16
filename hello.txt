@@ -1,5 +1,5 @@
 Hello hot-fix!
-Hello git!
+Hello hot-fix!
 Hello git!
 Hello git!
 Hello git!
